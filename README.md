@@ -18,6 +18,6 @@ The themes of the projects are directly related to my academic trajectory. In th
 - Pattern recognition, machine learning, deep learning, digital image processing, wearable motion sensor signals (Smart Sense Laboratory - 2016 to Actual)
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesimonbarreto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jesimonbarreto&show_icons=true&theme=dark)
