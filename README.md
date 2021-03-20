@@ -14,8 +14,8 @@ They are codes developed for a small solution, often developed to solve a specif
 The themes of the projects are directly related to my academic trajectory. In this way, the contents are directly related to the following topics:
 - Computer networks ( 2011 to 2014);
 - Human computer interaction (Touching Air Research Group - 2012 to 2016);
-- Systems engineering (Graduation - 2016 to Actual);
-- Pattern recognition, machine learning, deep learning, digital image processing, wearable motion sensor signals (Smart Sense Laboratory - 2016 to Actual)
+- Systems engineering (Graduation - 2016 - Present);
+- Pattern recognition, machine learning, deep learning, digital image processing, wearable motion sensor signals (Smart Sense Laboratory - 2016 - Present)
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesimonbarreto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
