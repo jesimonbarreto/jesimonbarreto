@@ -1,5 +1,5 @@
 ### Repositories
-In my github you will find projects developed during my professional career. These projects are divided into research projects, practical assignments, course projects and small projects.
+In my github, you will find developed projects during my professional career. These projects are divided into research projects, Practical Work, course projects and small projects.
 
 - #### Research Projects
 They are codes and files referring to developed research. The TTAirManager and Control-Equipment repositories are examples of research projects.
