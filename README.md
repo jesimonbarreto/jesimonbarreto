@@ -14,7 +14,8 @@ They are codes developed for a small solution, often developed to solve a specif
 The themes of the projects are directly related to my academic trajectory. Thus, the contents are directly related to the following topics:
 - Computer networks (2011 - 2014);
 - Human computer interaction (Touching Air Research Group: 2012 - 2016);
-- Systems engineering (bachelor degree: 2016 - Present);
+- Systems engineering (bachelor degree: 2016 - 2022);
+- Master Student (2023 - Present)
 - Pattern recognition, machine learning, deep learning, digital image processing, wearable motion sensor signals (Smart Sense Laboratory: 2016 - Present)
 
 ### Stats
